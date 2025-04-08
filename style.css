@@ -1,0 +1,34 @@
+#fotoh{
+    height: 10%;
+    width: 10%;
+}
+#fotoi{
+    height: 10%;
+    width: 10%;
+}
+#fotoj{
+    height: 10%;
+    width: 10%;
+}
+#fotok{
+    height: 10%;
+    width: 10%;
+}
+#fotol{
+    height: 10%;
+    width: 10%;
+}
+#fotom{
+    height: 10%;
+    width: 10%;
+}
+#foton{
+    height: 10%;
+    width: 10%;
+}
+#principal{
+    display: flex; 
+    justify-content: space-around;
+    width: 100%;
+    margin: 0 auto;
+}
