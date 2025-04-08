@@ -24,25 +24,26 @@ function f(){
 
 function g(){
     document.getElementById("fotog").src="./images/gallina.jpg";
+}
+
 function h(){
-    document.getElementById("fotoh").src="Hoja.jpg";
+    document.getElementById("fotoh").src="./images/Hoja.jpg";
 }
 function i(){
-    document.getElementById("fotoi").src="Iglesia.jpg";
+    document.getElementById("fotoi").src="./images/Iglesia.jpg";
 }
 function j(){
-    document.getElementById("fotoj").src="Jirafa.png";
+    document.getElementById("fotoj").src="./images/Jirafa.png";
 }
 function k(){
-    document.getElementById("fotok").src="Koala.jpg";
+    document.getElementById("fotok").src="./images/Koala.jpg";
 }
 function l(){
-    document.getElementById("fotol").src="Luna.jpg";
+    document.getElementById("fotol").src="./images/Luna.jpg";
 }
 function m(){
-    document.getElementById("fotom").src="Manzana.webp";
+    document.getElementById("fotom").src="./images/Manzana.webp";
 }
 function n(){
-    document.getElementById("foton").src="Naranja.jpg";
-}
+    document.getElementById("foton").src="./images/Naranja.jpg";
 }
