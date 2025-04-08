@@ -1,5 +1,23 @@
-img{
-    display: none;
-    height: 300px;
-    width: 300px;
+#contenedor-principal {
+    display: flex; /* Coloca los items en fila */
+    justify-content: space-around; /* Distribuye el espacio entre los items */
+    width: 100%; /* Ajusta el ancho del contenedor principal según necesites */
+    margin: 0 auto; /* Centra el contenedor principal horizontalmente */
+}
+
+.item {
+    display: flex; /* Para alinear la letra y la imagen verticalmente */
+    flex-direction: column; /* Coloca la letra encima de la imagen */
+    align-items: center; /* Centra horizontalmente la letra y la imagen dentro del item */
+}
+
+.item h2 {
+    margin-bottom: 5px; /* Espacio entre la letra y la imagen */
+}
+
+.item img {
+    width: 80px; /* Tamaño uniforme para el ancho de las imágenes */
+    height: 80px; /* Tamaño uniforme para la altura de las imágenes */
+    object-fit: contain; /* Asegura que la imagen se ajuste dentro del contenedor sin recortarse, manteniendo su aspecto */
+    border: 1px solid #ccc; /* Opcional: añade un borde a las imágenes */
 }
