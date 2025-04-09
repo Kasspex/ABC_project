@@ -48,6 +48,35 @@ function n(){
     document.getElementById("foton").src="./images/Naranja.jpg";
 }
 
+
+function letraNN() {
+    document.getElementById("imagenNN").src="letrasLaura/nnu.png";
+}
+
+function letraO() {
+    document.getElementById("imagenO").src="letrasLaura/oso.png";
+}
+
+function letraP() {
+    document.getElementById("imagenP").src="letrasLaura/perro.png";
+}
+
+function letraQ() {
+    document.getElementById("imagenQ").src="letrasLaura/queso.png";
+}
+
+function letraR() {
+    document.getElementById("imagenR").src="letrasLaura/raton.png";
+}
+
+function letraS() {
+    document.getElementById("imagenS").src="letrasLaura/sapo.png";
+}
+
+function letraT() {
+    document.getElementById("imagenT").src="letrasLaura/tortuga.png";
+}
+
 //  u, v, w, x, y, z 
 function u(){
     document.getElementById("fotou").src="./images/Uvas.jpg";
