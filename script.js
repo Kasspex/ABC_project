@@ -47,3 +47,28 @@ function m(){
 function n(){
     document.getElementById("foton").src="./images/Naranja.jpg";
 }
+
+//  u, v, w, x, y, z 
+function u(){
+    document.getElementById("fotou").src="./images/Uvas.jpg";
+}
+
+function v(){
+    document.getElementById("fotov").src="./images/Vaca.jpg";
+}
+
+function w(){
+    document.getElementById("fotow").src="./images/Wifi.jpg";
+}
+
+function x(){
+    document.getElementById("fotox").src="./images/Xilofono.jpg";
+}
+
+function y(){
+    document.getElementById("fotoy").src="./images/Yuca.jpg";
+}
+
+function z(){
+    document.getElementById("fotoz").src="./images/Zorro.jpg";
+}
